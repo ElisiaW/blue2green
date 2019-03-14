@@ -3,19 +3,6 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
-<!-- Adds image carousel -->
-{% if page.carousel %}
-  <div class="flexslider">
-    <ul class="slides">
-      {% for slides in page.carousel %}
-      <li>
-        <img src="{{ slides.image }}">
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
 <h2>{{ page.title }}</h2>
 
 <time datetime="{{ page.date }}">
