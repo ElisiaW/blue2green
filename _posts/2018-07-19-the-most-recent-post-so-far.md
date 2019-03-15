@@ -1,9 +1,14 @@
 ---
 layout: post
-title: The most recent post so far
-author: Elisia Wright
+title: Growing out of Control
+author: elisia_wright
 date: '2018-07-19 10:07:32'
-intro_paragraph: ''
+intro_paragraph: 'Algal blooms. How are they formed?'
 categories: misc
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumo.
+<h3>First, here's some background information:</h3>
+<p>How algal blooms are formed.</p>
+<p>What causes them.</p>
+<p>When they become harmful.</p>
+<href>How is wildlife affected? <>
+<!-- include link to new page on how it's affected -->
