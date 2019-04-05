@@ -7,4 +7,4 @@ categories: misc
 ---
 <p>Lake Erie</p>
 <p>Florida</p>
-![Netlify CMS Screenshot](/assets/img/uploads/screenshot-editor.jpg)
+<!-- ![Netlify CMS Screenshot](/assets/img/uploads/screenshot-editor.jpg) -->
